@@ -1,4 +1,4 @@
-baseURL = "http://localhost"
+baseURL = "https://detruxinote.netlify.app"
 title = "Fadhil Suheri"
 theme = "hugo-geekdoc"
 
