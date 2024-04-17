@@ -1,5 +1,5 @@
 +++
-title = "Javascript Additions: Rest Parameter"
+title = "Rest Parameter"
 draft = false
 weight = 3
 tags = ['javascript']

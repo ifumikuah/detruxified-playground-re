@@ -1,5 +1,5 @@
 +++
-title = "Javascript Additions: Map"
+title = "Map"
 draft = false
 weight = 4
 tags = ['javascript']

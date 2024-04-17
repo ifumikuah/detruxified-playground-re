@@ -1,5 +1,5 @@
 +++
-title = "Javascript Additions: Set"
+title = "Set"
 draft = false
 weight = 1
 tags = ['javascript']

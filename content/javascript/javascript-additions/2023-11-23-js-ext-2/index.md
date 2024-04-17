@@ -1,5 +1,5 @@
 +++
-title = "Javascript Additions: Spread Operator"
+title = "Spread Operator"
 draft = false
 weight = 2
 tags = ['javascript']
