@@ -1,7 +1,7 @@
 +++
 title = "Primitive & Non-Primitive References"
 draft = false
-weight = 4
+weight = 5
 tags = ['javascript']
 +++
 
