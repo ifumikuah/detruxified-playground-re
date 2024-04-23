@@ -1,7 +1,7 @@
 ---
 title: Semua data types
 date: 2024-04-23
-weight: 4
+weight: 5
 tags: 
   - C
 ---
