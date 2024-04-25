@@ -1,6 +1,6 @@
 ---
 title: User input
-date: 2024-04-24
+date: 2024-04-25
 weight: 9
 tags: 
   - C
