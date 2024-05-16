@@ -1,5 +1,5 @@
 ---
-title: Multi-dimensional array
+title: Multidimensional array
 date: 2024-05-16
 weight: 20
 tags: 
