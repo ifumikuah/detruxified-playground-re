@@ -16,7 +16,7 @@ int arrs[3][2] = {{1, 2}, {3, 4}, {5, 6}};
 
 ## Mengakses array multi-dimensional
 
-Sama seperti array pada normalnya, namun tentukan baris dan kolom seperti menggunakan koordinat cartesius.
+Sama seperti array pada normalnya, namun tentukan baris dan kolom seperti menggunakan koordinat kartesius.
 
 ```c
 int arrs[3][2] = {{1, 2}, {3, 4}, {5, 6}};
