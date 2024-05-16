@@ -14,7 +14,7 @@ Multidimensional array dengan panjang 3 dan panjang 2 di masing-masing sub-array
 int arrs[3][2] = {{1, 2}, {3, 4}, {5, 6}};
 ```
 
-## Mengakses array multi dimensional
+## Mengakses array multidimensional
 
 Sama seperti array pada normalnya, namun tentukan baris dan kolom seperti menggunakan koordinat cartesius.
 
@@ -24,7 +24,7 @@ int element1 = arrs[0][0] // 1
 int element2 = arrs[1][0] // 3
 ```
 
-## Pengulangan multi dimensional array
+## Pengulangan multidimensional array
 
 ```c
 #include <stdio.h>
