@@ -1,20 +1,20 @@
 ---
-title: Multi dimensional array
+title: Multi-dimensional array
 date: 2024-05-16
 weight: 20
 tags: 
   - C
 ---
 
-Multidimensional adalah sebuah array di yang terdapat beberapa array didalamnya, multi dimensional array bersifat static aslinya, artinya kita harus menentukan panjang "baris" dan "kolom" terlebih dahulu.
+Multi-dimensional adalah sebuah array di yang terdapat beberapa array didalamnya, multi dimensional array bersifat static aslinya, artinya kita harus menentukan panjang "baris" dan "kolom" terlebih dahulu.
 
-Multidimensional array dengan panjang 3 dan panjang 2 di masing-masing sub-array/kolom nya.
+Multi-dimensional array dengan panjang 3 dan panjang 2 di masing-masing sub-array/kolom nya.
 
 ```c
 int arrs[3][2] = {{1, 2}, {3, 4}, {5, 6}};
 ```
 
-## Mengakses array multidimensional
+## Mengakses array multi-dimensional
 
 Sama seperti array pada normalnya, namun tentukan baris dan kolom seperti menggunakan koordinat cartesius.
 
@@ -24,7 +24,7 @@ int element1 = arrs[0][0] // 1
 int element2 = arrs[1][0] // 3
 ```
 
-## Pengulangan multidimensional array
+## Pengulangan multi-dimensional array
 
 ```c
 #include <stdio.h>
