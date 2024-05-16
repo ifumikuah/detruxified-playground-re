@@ -6,7 +6,7 @@ tags:
   - C
 ---
 
-Mutidimensional adalah sebuah array di yang terdapat beberapa array didalamnya, multi dimensional array bersifat static aslinya, artinya kita harus menentukan panjang "baris" dan "kolom" terlebih dahulu.
+Multidimensional adalah sebuah array di yang terdapat beberapa array didalamnya, multi dimensional array bersifat static aslinya, artinya kita harus menentukan panjang "baris" dan "kolom" terlebih dahulu.
 
 Multidimensional array dengan panjang 3 dan panjang 2 di masing-masing sub-array/kolom nya.
 
