@@ -37,3 +37,19 @@ Operator seperti biasa:
 - `>` atau `>=`
 - `<` atau `<=`
 - `==` dan `!=`
+
+## Ternary operator
+
+Mempersingkat if else dengan ternary operator.
+
+```c
+int a = 24;
+int b = 20;
+const int biggest = (a > b) ? a : b;
+```
+Ternary operation:
+```c
+(a > b) ? a : b
+```
+
+Penjelasan: Jika evaluasi `a > b` bernilai `true`, maka return nya `a`, sebaliknya jika `false` maka nilainya `b`.
