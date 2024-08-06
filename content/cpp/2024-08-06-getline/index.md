@@ -19,7 +19,7 @@ std::cout << "Hello, " << strbuf << std::endl;
 
 ## Getline
 
-`Getline` bisa mengatasinya, getline akan membaca seluruh karakter dalam sequence sampai endline `\n` atau `\0` ditemukan.
+`getline` bisa mengatasinya, getline akan membaca seluruh karakter dalam sequence sampai endline `\n` atau `\0` ditemukan.
 
 ```cpp
 std::string strbuf;
@@ -29,4 +29,3 @@ getline(std::cin, strbuf);
 
 std::cout << "Hello, " << strbuf << std::endl;
 ```
-
