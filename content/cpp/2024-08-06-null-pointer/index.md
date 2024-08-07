@@ -79,3 +79,22 @@ for (int i = 0; i < 4; i++)
   }
 }
 ```
+
+## Free allocated memory
+
+Membebaskan memori di C++ menggunakan keyword `delete`.
+
+```cpp
+delete ptr;
+```
+
+Menghapus memori yang dialokasikan di array multidimensional tadi:
+
+```cpp
+for (int i = 0; i < row; i++)
+  delete array[i];
+
+delete array;
+```
+
+Memori yang dialokasikan menggunakan `new` harus dibebaskan menggunakan `delete`, hal yang sama juga terjadi jika alokasi menggunakan `malloc()` yang harus dibebaskan dengan `free()`.
